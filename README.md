@@ -54,3 +54,9 @@ Formulates the **PEAS (Performance Measure, Environment, Actuators, Sensors)** f
 - **Dheshieghan A/L Saravana Moorthy** (Matric ID: A23CS0072)
 
 **Lecturer**: Dr. Roliana Binti Ibrahim
+
+
+---
+
+## 💭 Course Reflection
+Designing logic rules (FOL), state-space search trees, and PEAS multi-agent architectures here showed me how to model complex agricultural tasks logically. It taught me how to translate environmental constraints into structured machine-readable decisions.
